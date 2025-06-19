@@ -1,7 +1,36 @@
-<h3> Here I am going to Show All the Tableau Work which I have done on SuperMarket data </h3>
 
-<body>
 
-Here First I want to explain about bar charts 
+# 2025 Tableau 
 
-<img src = alt 
+
+![Logo](https://26552728.fs1.hubspotusercontent-eu1.net/hubfs/26552728/Website/Logos/marketplace/Tableau.png)
+
+I want to explan all about Tableau which I implemented from 2025 March to 2025 May:
+
+**Some EDA which I have gone through**
+
+- `Bar chart `
+- `Pie chart `
+- `plot `
+- `Linear Lines `
+- `correlations `
+
+
+
+
+
+
+
+
+## Documentation
+
+[Documentation](https://www.tableau.com/resources)
+
+
+## 🚀 About Me
+AI Intern at Vihara Tech | Passionate about Machine Learning, Computer Vision, Natural Language Processing & Generative AI.
+
+
+## Support
+
+For support, email kamal@gmail.com 
